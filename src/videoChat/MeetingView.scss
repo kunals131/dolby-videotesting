@@ -1,0 +1,17 @@
+.meetingview {
+  
+    height: 90vh;
+    overflow-y: hidden;
+    &__container {
+        width: 85%;
+        margin: auto;
+        height: 86%;
+       
+    }
+
+}
+.meetingview__main {
+    transition: all 0.2s ease-in-out;
+    background-color: black;
+    height: 100vh;
+}
